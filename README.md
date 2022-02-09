@@ -1,2 +1,2 @@
 # Curso-Python
-La info de los modulos y ejercicios pero modificados a mi
+Las kats realizadas para el curso de Launch X
