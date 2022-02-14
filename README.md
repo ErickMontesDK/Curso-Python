@@ -1,2 +1,2 @@
 # Curso-Python
-Las kats realizadas para el curso de Launch X
+Las 10 katas realizadas para el curso de Python
